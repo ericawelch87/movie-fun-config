@@ -1,1 +1,2 @@
-git remote add origin https://github.com/ericawelch87/movie-fun-config.git
+movies:
+  pagesize: 4
